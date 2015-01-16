@@ -1,0 +1,31 @@
+// Font Variables
+$nav-font: 'Economica',sans-serif;
+$body-font: 'Old Standard TT',serif;
+$main-heading: 'nexa_rust_sansblack',sans-serif;
+$sub-heading: 'nexa_rust_script_l0regular',sans-serif;
+$icon-font: 'nexa_rust_extrasfree',sans-serif;
+
+// Scaffolding Colors
+$dark: #000;
+$light: #fff;
+$body-bg: #fff;
+$text-color: #333;
+$link-color: #ff6c00;
+$link-hover-color: darken($link-color,10%);
+$placeholder-text: #bbbbbb;
+
+// Primary Colors
+$nav-bg: #e0ded9;
+$brand-primary: #ff6c00;
+
+//Alert, Error and Success Colors
+$brand-danger: #e74c3c;
+$brand-success: #29aa3e; 
+$brand-info: #1f4971;
+$brand-warning: #ffba00;
+
+//Grays
+$gray-darker: #222;
+$gray-dark: #2e2e32;
+$gray-light: #e0ded9;
+$gray: #f7f7f7;
